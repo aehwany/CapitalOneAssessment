@@ -1,5 +1,16 @@
 # CapitalOneAssessment
-Software Engineering Technical Assessment for CapitalOne new grad role
+Software Engineering Technical Assessment for CapitalOne new graduate role.
+
+## Overview
+The following project supports file extensions corresponding to the following programming languages:
+* Java
+* C++
+* C
+* C#
+* JavaScript
+* HTML
+* Python
+* PHP
 
 ## To run the code on a specific file
 * Add the file path as an input argument to the java program.
